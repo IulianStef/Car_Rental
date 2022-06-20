@@ -1,0 +1,59 @@
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\Inchirieri_form.exe.config
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\Inchirieri_form.exe
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\Inchirieri_form.pdb
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\LibrarieModele.dll
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\MetroFramework.Design.dll
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\MetroFramework.dll
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\StocareDate.dll
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\LibrarieModele.pdb
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\StocareDate.pdb
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Login.resources
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Properties.Resources.resources
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.csproj.CopyComplete
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.exe
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.pdb
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\System.Security.AccessControl.dll
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\System.Security.Permissions.dll
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\System.Security.AccessControl.xml
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\System.Security.Permissions.xml
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Clienti_form.resources
+C:\Users\stefa\source\repos\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Menu.resources
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\Inchirieri_form.exe.config
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\Inchirieri_form.exe
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\Inchirieri_form.pdb
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\LibrarieModele.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\MetroFramework.Design.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\MetroFramework.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\MetroFramework.Fonts.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\StocareDate.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\System.Security.AccessControl.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\System.Security.Permissions.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\System.Security.Principal.Windows.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\LibrarieModele.pdb
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\StocareDate.pdb
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\System.Security.AccessControl.xml
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\System.Security.Permissions.xml
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\bin\Debug\System.Security.Principal.Windows.xml
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.csproj.AssemblyReference.cache
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Clienti_form.resources
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Login.resources
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Masini_form.resources
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Menu.resources
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Properties.Resources.resources
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.csproj.GenerateResource.cache
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.csproj.CoreCompileInputs.cache
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.csproj.CopyComplete
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.exe
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.pdb
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Afisare_client.resources
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\Inchirieri_form\obj\Debug\Inchirieri_form.Afisare_masini.resources

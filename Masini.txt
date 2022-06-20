@@ -1,0 +1,8 @@
+1;Volkswagen;Golf 6;2013;portocaliu;Diesel;CutieManuala;10;True;
+2;Opel;Astra;2011;albastru;Benzina;CutieManuala;1;True;
+3;Audi;a4;1997;verde;Diesel;CutieManuala;17;True;
+4;Audi;a8;2019;gri;Diesel;CutieManuala;31;True;
+5;Volkswagen;Passat;2013;negru;Diesel;CutieAutomata;31;True;
+6;Audi;Q8;2018;auriu;Diesel;CutieAutomata;31;True;
+7;BMW;M5;2016;turcoaz;Benzina;CutieManuala;13;True;
+8;Audi;a4;2015;portocaliu;Electric;CutieAutomata;13;True;

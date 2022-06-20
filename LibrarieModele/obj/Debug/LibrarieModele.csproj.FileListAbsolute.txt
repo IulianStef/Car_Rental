@@ -1,0 +1,12 @@
+C:\Users\stefa\source\repos\Inchirieri\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\stefa\source\repos\Inchirieri\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\stefa\source\repos\Inchirieri\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\Inchirieri\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Inchirieri\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\stefa\source\repos\Inchirieri\LibrarieModele\obj\Debug\LibrarieModele.pdb
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\LibrarieModele\bin\Debug\LibrarieModele.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\LibrarieModele\bin\Debug\LibrarieModele.pdb
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\LibrarieModele\obj\Debug\LibrarieModele.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\LibrarieModele\obj\Debug\LibrarieModele.pdb

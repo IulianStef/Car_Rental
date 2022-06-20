@@ -1,0 +1,18 @@
+C:\Users\stefa\source\repos\Inchirieri\StocareDate\bin\Debug\StocareDate.dll
+C:\Users\stefa\source\repos\Inchirieri\StocareDate\bin\Debug\StocareDate.pdb
+C:\Users\stefa\source\repos\Inchirieri\StocareDate\bin\Debug\LibrarieModele.dll
+C:\Users\stefa\source\repos\Inchirieri\StocareDate\bin\Debug\LibrarieModele.pdb
+C:\Users\stefa\source\repos\Inchirieri\StocareDate\obj\Debug\StocareDate.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\Inchirieri\StocareDate\obj\Debug\StocareDate.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Inchirieri\StocareDate\obj\Debug\StocareDate.csproj.CopyComplete
+C:\Users\stefa\source\repos\Inchirieri\StocareDate\obj\Debug\StocareDate.dll
+C:\Users\stefa\source\repos\Inchirieri\StocareDate\obj\Debug\StocareDate.pdb
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\StocareDate\bin\Debug\StocareDate.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\StocareDate\bin\Debug\StocareDate.pdb
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\StocareDate\bin\Debug\LibrarieModele.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\StocareDate\bin\Debug\LibrarieModele.pdb
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\StocareDate\obj\Debug\StocareDate.csproj.AssemblyReference.cache
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\StocareDate\obj\Debug\StocareDate.csproj.CoreCompileInputs.cache
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\StocareDate\obj\Debug\StocareDate.csproj.CopyComplete
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\StocareDate\obj\Debug\StocareDate.dll
+D:\Iuli\Facultate\An2\Semestrul II\PIU\Aplicatie inchirieri\Inchirieri\StocareDate\obj\Debug\StocareDate.pdb
